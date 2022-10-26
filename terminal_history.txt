@@ -1,0 +1,50 @@
+  465  python -c "import tensorflow as tf;print(tf.keras.__version__)"
+  466  conda activate dev
+  467  jupyter lab
+  468  conda deactivate
+  469  conda activate dev
+  470  jupyter lab
+  471  conda deactivate
+  472  conda activate dev
+  473  jupyter lab
+  474  conda deactivate
+  475  cd onedrive/boot_camp/challenges/module_12_challenge/credit-risk-resampling
+  476  git status
+  477  git add --all
+  478  git commit -m"completed the code for the notebook"
+  479  git push
+  480  git status
+  481  git add --all
+  482  history 50>terminal_history.txt
+  483  git status
+  484  git add --all
+  485  git commit -m"Edited the markdown for the notebook and the README, added terminal_history.txt as proof of making commits from the terminal"
+  486  git push
+  487  git status
+  488  git add --all
+  489  git commit -m"edited the README"
+  490  git push
+  491  git add --all
+  492  git status
+  493  git commit -m"edited the README"
+  494  git push
+  495  conda activate dev
+  496  jupyter lab
+  497  conda deactivate
+  498  conda activate dev
+  499  jupyter lab
+  500  conda deactivate
+  501  cd onedrive/boot_camp/challenges/module_13_challenge
+  502  git clone git@github.com:lydiaciummo/venture-funding-with-deep-learning.git
+  503  cd venture-funding-with-deep-learning
+  504  git status
+  505  git add --all
+  506  git commit -m"Added the starter code to the repository"
+  507  git push
+  508  git status
+  509  git add --all
+  510  git commit -m"Completed the code for the notebook":
+  511  git push
+  512  git status
+  513  git add --all
+  514  history 50 > terminal_history.txt
